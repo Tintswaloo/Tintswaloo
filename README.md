@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Tintswalo 👋
 
-<!--
-**Tintswaloo/Tintswaloo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Information Technology Graduate  
+💻 Front-End Developer  
+📍 South Africa  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+I am passionate about building clean, responsive, and user-focused web applications.  
+I enjoy turning ideas into interactive interfaces and continuously improving my front-end development skills.
+
+---
+
+## 🛠️ Tech Stack
+- HTML  
+- CSS  
+- JavaScript (Basic)  
+- C#  
+- SQL  
+- Git & GitHub  
+
+---
+
+## 🌱 Currently Improving
+- JavaScript proficiency  
+- Responsive design  
+- UI/UX principles  
+
+---
+
+## 📫 Connect With Me
+LinkedIn: www.linkedin.com/in/bianca-nakisani-makhado-2a2b27301 
