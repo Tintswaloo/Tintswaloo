@@ -1,6 +1,6 @@
-# Hi, I'm Tintswalo 👋
+# Hi, I'm Nakisani Makhado 👋
 
-🎓 Information Technology Graduate  
+🎓 Computer Science Graduate  
 💻 Front-End Developer  
 📍 South Africa  
 
