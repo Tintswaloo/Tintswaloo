@@ -1,37 +1,49 @@
+/* BASE STYLES */
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: 'Segoe UI', sans-serif;
+  font-family: 'Poppins', sans-serif;
 }
 
 body {
-  background: linear-gradient(135deg, #ffe4f0, #f0f0ff);
-  color: #333;
+  background: linear-gradient(135deg, #e0e0e0, #c0c0c0);
+  color: #111;
   line-height: 1.6;
 }
 
+/* HERO SECTION */
 .hero {
   height: 100vh;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background: linear-gradient(135deg, #ffb6c1, #dda0dd); /* pink-purple pastel */
+  background: linear-gradient(135deg, #1e1e1e, #2a2a2a);
   text-align: center;
-  color: #fff; 
+  color: #fff;
+  position: relative;
+  overflow: hidden;
+}
+
+.hero-img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-bottom: 20px;
+  border: 3px solid #00f5ff;
+  box-shadow: 0 5px 15px rgba(0, 245, 255, 0.4);
 }
 
 .hero h1 {
   font-size: 3rem;
-  background: linear-gradient(90deg, #ff69b4, #8a2be2); /* hot pink → violet */
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
+  color: #00f5ff;
   animation: bounce 1.5s infinite alternate;
 }
 
 .hero p {
-  margin: 20px 0;
+  margin: 15px 0;
   font-size: 1.2rem;
   opacity: 0.9;
   color: #fff;
@@ -39,29 +51,75 @@ body {
 
 button {
   padding: 12px 24px;
-  background: #ff69b4;
+  background: #00f5ff;
   border: none;
-  color: white;
+  color: #111;
   cursor: pointer;
   transition: transform 0.3s, box-shadow 0.3s;
   border-radius: 30px;
-  box-shadow: 0 5px 15px rgba(255, 105, 180, 0.4);
+  box-shadow: 0 5px 15px rgba(0, 245, 255, 0.4);
 }
 
 button:hover {
   transform: scale(1.1);
-  box-shadow: 0 10px 20px rgba(255, 105, 180, 0.6);
+  box-shadow: 0 10px 20px rgba(0, 245, 255, 0.6);
 }
 
+/* FLOATING TECH ICONS */
+.hero-icons {
+  position: absolute;
+  top: 20%;
+  left: 50%;
+  transform: translateX(-50%);
+  display: flex;
+  gap: 25px;
+  pointer-events: none;
+}
+
+.hero-icons .icon {
+  font-size: 2rem;
+  opacity: 0.8;
+  animation: float 6s ease-in-out infinite;
+}
+
+.hero-icons .icon:nth-child(1) { animation-delay: 0s; }
+.hero-icons .icon:nth-child(2) { animation-delay: 1s; }
+.hero-icons .icon:nth-child(3) { animation-delay: 2s; }
+.hero-icons .icon:nth-child(4) { animation-delay: 3s; }
+.hero-icons .icon:nth-child(5) { animation-delay: 4s; }
+
+@keyframes float {
+  0%   { transform: translateY(0) translateX(0); }
+  50%  { transform: translateY(-15px) translateX(5px); }
+  100% { transform: translateY(0) translateX(0); }
+}
+
+/* HERO SVG ILLUSTRATION */
+.hero-svg {
+  width: 200px;
+  position: absolute;
+  bottom: 10%;
+  right: 5%;
+  opacity: 0.5;
+  animation: floatSvg 6s ease-in-out infinite;
+}
+
+@keyframes floatSvg {
+  0%   { transform: translateY(0); }
+  50%  { transform: translateY(-10px); }
+  100% { transform: translateY(0); }
+}
+
+/* SECTIONS */
 .section {
   padding: 80px 20px;
   max-width: 1000px;
-  margin: auto;
+  margin: auto 20px;
   text-align: center;
-  background: linear-gradient(120deg, #ffe4f0, #f0f0ff);
+  background: linear-gradient(120deg, #f0f0f0, #e0e0ff);
   border-radius: 20px;
   margin-bottom: 40px;
-  box-shadow: 0 5px 20px rgba(200, 150, 255, 0.2);
+  box-shadow: 0 5px 20px rgba(0, 245, 255, 0.2);
 }
 
 .section h2 {
@@ -69,38 +127,38 @@ button:hover {
   font-size: 2rem;
 }
 
+/* CARDS */
 .cards {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
   gap: 20px;
 }
 
-.cards .card {
+.card {
   padding: 20px;
-  background: rgba(255, 182, 193, 0.3); /* soft pink glass effect */
-  backdrop-filter: blur(10px);
+  background: rgba(0, 245, 255, 0.1);
   border-radius: 16px;
   transition: 0.3s;
   font-size: 1.1rem;
-  color: #333;
+  color: #111;
 }
 
-.cards .card:hover {
+.card:hover {
   transform: translateY(-10px) rotate(-2deg);
-  background: rgba(255, 105, 180, 0.3);
-  box-shadow: 0 8px 16px rgba(255, 105, 180, 0.3);
+  background: rgba(0, 245, 255, 0.2);
+  box-shadow: 0 8px 16px rgba(0, 245, 255, 0.3);
 }
 
+/* FOOTER */
 footer {
   text-align: center;
   padding: 30px;
-   background: #dda0dd;
-  color: #fff;
+  background: #1e1e1e;
+  color: #00f5ff;
   border-radius: 20px 20px 0 0;
 }
 
-/* Animations */
-
+/* ANIMATIONS */
 .fade-in {
   opacity: 0;
   transform: translateY(20px);
@@ -116,8 +174,9 @@ footer {
     opacity: 1;
     transform: translateY(0);
   }
-  @keyframes bounce {
+}
+
+@keyframes bounce {
   0% { transform: translateY(0); }
   100% { transform: translateY(-10px); }
-}
 }
