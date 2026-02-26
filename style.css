@@ -58,6 +58,10 @@ button:hover {
   max-width: 1000px;
   margin: auto;
   text-align: center;
+  background: linear-gradient(120deg, #ffe4f0, #f0f0ff);
+  border-radius: 20px;
+  margin-bottom: 40px;
+  box-shadow: 0 5px 20px rgba(200, 150, 255, 0.2);
 }
 
 .section h2 {
@@ -90,8 +94,9 @@ button:hover {
 footer {
   text-align: center;
   padding: 30px;
-  background: #111;
-  margin-top: 50px;
+   background: #dda0dd;
+  color: #fff;
+  border-radius: 20px 20px 0 0;
 }
 
 /* Animations */
