@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Nakisani Makhado | Frontend Developer</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <div class="hero">
+    <h1 class="fade-in">Nakisani Makhado</h1>
+    <p class="fade-in delay">Frontend Developer • Computer Science Graduate</p>
+    <button onclick="scrollToSection()">View My Work ↓</button>
+  </div>
+
+  <section id="about" class="section">
+    <h2>About Me</h2>
+    <p>
+      I build modern, responsive and user-focused web applications.
+      I enjoy transforming ideas into clean, interactive digital experiences.
+    </p>
+  </section>
+
+  <section class="section">
+    <h2>Tech Stack</h2>
+    <div class="cards">
+      <div class="card">HTML</div>
+      <div class="card">CSS</div>
+      <div class="card">JavaScript</div>
+      <div class="card">C#</div>
+      <div class="card">SQL</div>
+      <div class="card">Git</div>
+    </div>
+  </section>
+
+  <section class="section">
+    <h2>Currently Improving</h2>
+    <p>Advanced JavaScript • Responsive UI Systems • UI/UX Principles</p>
+  </section>
+
+  <footer>
+    <p>© 2026 Nakisani Makhado</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
