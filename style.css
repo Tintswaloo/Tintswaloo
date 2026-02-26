@@ -6,8 +6,8 @@
 }
 
 body {
-  background: #0f0f0f;
-  color: #f5f5f5;
+  background: linear-gradient(135deg, #ffe4f0, #f0f0ff);
+  color: #333;
   line-height: 1.6;
 }
 
@@ -17,37 +17,40 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background: linear-gradient(135deg, #1a1a1a, #111);
+  background: linear-gradient(135deg, #ffb6c1, #dda0dd); /* pink-purple pastel */
   text-align: center;
+  color: #fff; 
 }
 
 .hero h1 {
   font-size: 3rem;
-  background: linear-gradient(90deg, #00f5ff, #7a00ff);
+  background: linear-gradient(90deg, #ff69b4, #8a2be2); /* hot pink → violet */
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
+  animation: bounce 1.5s infinite alternate;
 }
 
 .hero p {
   margin: 20px 0;
   font-size: 1.2rem;
-  opacity: 0.8;
+  opacity: 0.9;
+  color: #fff;
 }
 
 button {
   padding: 12px 24px;
-  background: transparent;
-  border: 2px solid #00f5ff;
-  color: #00f5ff;
+  background: #ff69b4;
+  border: none;
+  color: white;
   cursor: pointer;
-  transition: 0.3s;
+  transition: transform 0.3s, box-shadow 0.3s;
   border-radius: 30px;
+  box-shadow: 0 5px 15px rgba(255, 105, 180, 0.4);
 }
 
 button:hover {
-  background: #00f5ff;
-  color: black;
-  transform: scale(1.05);
+  transform: scale(1.1);
+  box-shadow: 0 10px 20px rgba(255, 105, 180, 0.6);
 }
 
 .section {
@@ -68,17 +71,20 @@ button:hover {
   gap: 20px;
 }
 
-.card {
+.cards .card {
   padding: 20px;
-  background: rgba(255, 255, 255, 0.05);
+  background: rgba(255, 182, 193, 0.3); /* soft pink glass effect */
   backdrop-filter: blur(10px);
-  border-radius: 12px;
+  border-radius: 16px;
   transition: 0.3s;
+  font-size: 1.1rem;
+  color: #333;
 }
 
-.card:hover {
-  transform: translateY(-10px);
-  background: rgba(0, 245, 255, 0.1);
+.cards .card:hover {
+  transform: translateY(-10px) rotate(-2deg);
+  background: rgba(255, 105, 180, 0.3);
+  box-shadow: 0 8px 16px rgba(255, 105, 180, 0.3);
 }
 
 footer {
@@ -105,4 +111,8 @@ footer {
     opacity: 1;
     transform: translateY(0);
   }
+  @keyframes bounce {
+  0% { transform: translateY(0); }
+  100% { transform: translateY(-10px); }
+}
 }
