@@ -1,6 +1,7 @@
 <!-- ================= BANNER ================= -->
 <div align="center">
 <img src="https://github.com/tintswaloo/Tintswaloo/raw/main/banner.png" width="100%" alt="Nakisani Makhado Banner"/>
+style="margin-top: 10px;">
 </div>
 <!-- ================= ABOUT ME ================= -->
 <h2 align="center" style="margin-top: 20px;">🚀 About Me</h2>
