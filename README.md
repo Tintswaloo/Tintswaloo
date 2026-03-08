@@ -1,16 +1,14 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+I'm+Nakisani+Makhado;Front-End+Developer;Computer+Science+Graduate;Welcome+to+my+GitHub!&center=true&width=500&height=50">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=200&section=header&text=Nakisani%20Makhado&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 
-</div>
-
----
-
-# 👩‍💻 Nakisani Makhado
+# Hi, I'm Nakisani Makhado 👋
 
 🎓 Computer Science Graduate  
 💻 Front-End Developer  
 📍 South Africa  
+
+</div>
 
 ---
 
@@ -24,14 +22,14 @@ I enjoy turning ideas into interactive interfaces and continuously improving my 
 
 ## 🛠️ Tech Stack
 
-<p align="left">
+<p>
 
-<img src="https://skillicons.dev/icons?i=html" height="40">
-<img src="https://skillicons.dev/icons?i=css" height="40">
-<img src="https://skillicons.dev/icons?i=javascript" height="40">
-<img src="https://skillicons.dev/icons?i=cs" height="40">
-<img src="https://skillicons.dev/icons?i=git" height="40">
-<img src="https://skillicons.dev/icons?i=github" height="40">
+<img src="https://skillicons.dev/icons?i=html" height="45"/>
+<img src="https://skillicons.dev/icons?i=css" height="45"/>
+<img src="https://skillicons.dev/icons?i=javascript" height="45"/>
+<img src="https://skillicons.dev/icons?i=cs" height="45"/>
+<img src="https://skillicons.dev/icons?i=git" height="45"/>
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
 
 </p>
 
@@ -39,9 +37,9 @@ I enjoy turning ideas into interactive interfaces and continuously improving my 
 
 ## 🌱 Currently Improving
 
-• JavaScript proficiency  
-• Responsive design  
-• UI/UX principles  
+- JavaScript proficiency  
+- Responsive design  
+- UI/UX principles  
 
 ---
 
@@ -49,9 +47,9 @@ I enjoy turning ideas into interactive interfaces and continuously improving my 
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=default">
+<img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact"/>
 
 </p>
 
@@ -67,3 +65,15 @@ https://www.linkedin.com/in/bianca-nakisani-makhado-2a2b27301
 ## ▶️ How to Run the Project
 
 1. Clone the repository
+
+```
+git clone https://github.com/YOURUSERNAME/YOURREPOSITORY.git
+```
+
+2. Open the project folder
+
+3. Open **index.html** in your browser
+
+---
+
+⭐ Always learning • Always building • Always improving
