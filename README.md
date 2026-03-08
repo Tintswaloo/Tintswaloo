@@ -73,14 +73,16 @@ I focus on creating projects that are both functional and visually appealing.
 
 
 <!-- ================= LET'S GET IN TOUCH! ================= -->
-<h2 align="center" style="font-size: 2em;">📫 Connect With Me</h2>
+<h2 align="center" style="font-size: 2em;">📫 Let's get in touch</h2>
 
-<p style="font-size: 1.2em;">
-LinkedIn:<br>
-https://www.linkedin.com/in/bianca-nakisani-makhado-2a2b27301
-Email Address:<br>
-<a href="mailto:biancanakisanimakhado@gmail.com">biancanakisanimakhado@gmail.com
-GitHub:<br>
-<a href="https://github.com/Tintswaloo/Tintswaloo/edit/main/README.md
-</a>
+<p align="center">
+  <a href="mailto:biancanakisanimakhado@gmail.com">
+    <img src="https://img.shields.io/badge/Email-biancanakisanimakhado@gmail.com-red?style=for-the-badge&logo=gmail" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/bianca-nakisani-makhado-2a2b27301" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Bianca-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/Tintswaloo/Tintswaloo" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Tintswaloo-black?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
 </p>
