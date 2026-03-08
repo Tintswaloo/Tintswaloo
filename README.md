@@ -3,9 +3,6 @@
 
 <img src="https://github.com/tintswaloo/Tintswaloo/raw/main/banner.png" width="100%" alt="Nakisani Makhado Banner"/>
 </div>
-
----
-
 <!-- ================= ABOUT ME ================= -->
 <h2 align="center">🚀 About Me</h2>
 
