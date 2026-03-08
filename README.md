@@ -44,6 +44,7 @@ I focus on creating projects that are **both functional and visually appealing**
 | **E-Commerce Website** | Responsive online shopping interface with clean UI. | [Live Demo](https://tintswaloo.github.io/Tintswaloo/) | [GitHub](https://github.com/tintswaloo/Tintswaloo) |
 | **Online Store Interface** | Front-end focused design emphasizing usability and responsiveness. | [Live Demo](https://tintswaloo.github.io/Tintswaloo/) | [GitHub](https://github.com/tintswaloo/Tintswaloo) |
 | **Portfolio Project** | Personal portfolio showcasing skills, projects, and contact links. | [Live Demo](https://tintswaloo.github.io/Tintswaloo/) | [GitHub](https://github.com/tintswaloo/Tintswaloo) |
+
 ---
 
 <!-- ================= GITHUB STATS ================= -->
