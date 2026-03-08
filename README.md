@@ -42,25 +42,68 @@ I focus on creating projects that are both functional and visually appealing.
   <th style="padding: 10px 5px;">Code</th>
 </tr>
 
-<tr style="transition: all 0.3s; background-color:#f5f5f5;" onmouseover="this.style.backgroundColor='#e0f7fa'" onmouseout="this.style.backgroundColor='#f5f5f5'">
+<tr style="transition: all 0.3s; background-color:#f5f5f5;" 
+    onmouseover="this.style.backgroundColor='#e0f7fa'" 
+    onmouseout="this.style.backgroundColor='#f5f5f5'">
   <td><strong>E-Commerce Website</strong></td>
   <td>Responsive online shopping interface with clean UI.</td>
-  <td><a href="https://tintswaloo.github.io/Tintswaloo/"><img src="https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge"/></a></td>
-  <td><a href="https://github.com/tintswaloo/Tintswaloo"><img src="https://img.shields.io/badge/GitHub-Code-blue?style=for-the-badge"/></a></td>
+  <td>
+    <a href="https://tintswaloo.github.io/Tintswaloo/">
+      <img src="https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge"/>
+    </a>
+  </td>
+  <td>
+    <a href="https://github.com/tintswaloo/Tintswaloo">
+      <img src="https://img.shields.io/badge/GitHub-Code-blue?style=for-the-badge"/>
+    </a>
+  </td>
 </tr>
 
-<tr style="transition: all 0.3s; background-color:#f5f5f5;" onmouseover="this.style.backgroundColor='#e0f7fa'" onmouseout="this.style.backgroundColor='#f5f5f5'">
+<tr style="transition: all 0.3s; background-color:#f5f5f5;" 
+    onmouseover="this.style.backgroundColor='#e0f7fa'" 
+    onmouseout="this.style.backgroundColor='#f5f5f5'">
   <td><strong>Portfolio Project</strong></td>
   <td>Personal portfolio showcasing skills, projects, and contact links.</td>
-  <td><a href="https://tintswaloo.github.io/Tintswaloo/"><img src="https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge"/></a></td>
-  <td><a href="https://github.com/tintswaloo/Tintswaloo"><img src="https://img.shields.io/badge/GitHub-Code-blue?style=for-the-badge"/></a></td>
+  <td>
+    <a href="https://tintswaloo.github.io/Tintswaloo/">
+      <img src="https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge"/>
+    </a>
+  </td>
+  <td>
+    <a href="https://github.com/tintswaloo/Tintswaloo">
+      <img src="https://img.shields.io/badge/GitHub-Code-blue?style=for-the-badge"/>
+    </a>
+  </td>
 </tr>
 
-<tr style="transition: all 0.3s; background-color:#f5f5f5;" onmouseover="this.style.backgroundColor='#e0f7fa'" onmouseout="this.style.backgroundColor='#f5f5f5'">
+<tr style="transition: all 0.3s; background-color:#f5f5f5;" 
+    onmouseover="this.style.backgroundColor='#e0f7fa'" 
+    onmouseout="this.style.backgroundColor='#f5f5f5'">
   <td><strong>Reliable Carriers</strong></td>
   <td>Front-end project for carrier logistics and delivery interface.</td>
   <td>—</td>
-  <td><a href="https://github.com/Ntshuxeko5/Reliable-Carriers"><img src="https://img.shields.io/badge/GitHub-Code-blue?style=for-the-badge"/></a></td>
+  <td>
+    <a href="https://github.com/Ntshuxeko5/Reliable-Carriers">
+      <img src="https://img.shields.io/badge/GitHub-Code-blue?style=for-the-badge"/>
+    </a>
+  </td>
+</tr>
+
+<tr style="transition: all 0.3s; background-color:#f5f5f5;" 
+    onmouseover="this.style.backgroundColor='#e0f7fa'" 
+    onmouseout="this.style.backgroundColor='#f5f5f5'">
+  <td><strong>Fresh Patch Web</strong></td>
+  <td>Responsive website for showcasing fresh produce, with clean UI and interactive pages.</td>
+  <td>
+    <a href="https://tintswaloo.github.io/freshpatchweb/">
+      <img src="https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge"/>
+    </a>
+  </td>
+  <td>
+    <a href="https://github.com/Tintswaloo/freshpatchweb">
+      <img src="https://img.shields.io/badge/GitHub-Code-blue?style=for-the-badge"/>
+    </a>
+  </td>
 </tr>
 
 </table>
