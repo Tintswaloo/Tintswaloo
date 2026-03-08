@@ -1,16 +1,18 @@
-<!-- ================= HEADER ================= -->
+<!-- ================= BANNER ================= -->
 <div align="center">
 
-<!-- Coding-Style Banner (Capsule Render) -->
+<!-- Full-width coding-style banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Nakisani%20Makhado&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=Front-End%20Developer&descSize=20&descAlign=center" width="100%"/>
 
 </div>
 
-<!-- Profile Icon + Info -->
+---
+
+<!-- ================= PROFILE ICON + INFO ================= -->
 <table align="center">
   <tr>
     <td width="120" align="center">
-      <img src="https://github.com/tintswaloo/Tintswaloo/raw/main/cartoon.png" width="120" style="border-radius: 50%;"/>
+      <img src="https://github.com/tintswaloo/Tintswaloo/raw/main/Cartoon.png" width="120" style="border-radius: 50%;"/>
     </td>
     <td align="left" valign="middle" style="padding-left: 15px;">
       🎓 Computer Science Graduate<br/>
