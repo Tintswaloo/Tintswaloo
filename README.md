@@ -1,14 +1,23 @@
+<!-- Banner with Coding Aesthetic -->
 <div align="center">
 
-<!-- Coding Terminal Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Nakisani%20Bianca%20Makhado&fontSize=40&fontColor=ffffff&animation=fadeIn&descSize=20&descAlign=center" />
-
-🎓 Computer Science Graduate  
-💻 Front-End Developer  
-📍 South Africa  
+<img src="https://github.com/tintswaloo/Tintswaloo/raw/main/a_profile_header_section_of_nakisani_makhado_s_git.png" alt="Nakisani Makhado Banner" width="100%"/>
 
 </div>
 
+<!-- Profile Info Next to Cartoon Icon -->
+<table align="center">
+  <tr>
+    <td width="120" align="center">
+      <img src="https://github.com/tintswaloo/Tintswaloo/raw/main/a_profile_header_section_of_nakisani_makhado_s_git.png" alt="Cartoon Girl" width="120" style="border-radius: 50%;"/>
+    </td>
+    <td align="left" valign="middle" style="padding-left: 15px;">
+      🎓 Computer Science Graduate<br/>
+      💻 Front-End Developer<br/>
+      📍 South Africa
+    </td>
+  </tr>
+</table>
 ---
 <h2 align="center">About Me</h2>
 I am passionate about building **clean, responsive, and user-focused web applications**.
