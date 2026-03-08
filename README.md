@@ -22,14 +22,15 @@ I enjoy turning ideas into interactive interfaces and continuously improving my 
 
 ## 🛠️ Tech Stack
 
-<p>
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=html" height="45"/>
-<img src="https://skillicons.dev/icons?i=css" height="45"/>
-<img src="https://skillicons.dev/icons?i=javascript" height="45"/>
-<img src="https://skillicons.dev/icons?i=cs" height="45"/>
-<img src="https://skillicons.dev/icons?i=git" height="45"/>
-<img src="https://skillicons.dev/icons?i=github" height="45"/>
+<img src="https://skillicons.dev/icons?i=html" height="45"/> HTML &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=css" height="45"/> CSS &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=javascript" height="45"/> JavaScript &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=cs" height="45"/> C# &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=sql" height="45"/> SQL &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=git" height="45"/> Git &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=github" height="45"/> GitHub
 
 </p>
 
