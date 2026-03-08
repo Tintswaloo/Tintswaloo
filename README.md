@@ -10,9 +10,7 @@
 </div>
 
 ---
-<div align="center">
-## About Me
-</div>
+<h2 align="center">🚀 About Me</h2>
 I am passionate about building **clean, responsive, and user-focused web applications**.
 
 I enjoy **turning ideas into interactive interfaces** and continuously improving my front-end development skills.  
