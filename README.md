@@ -45,23 +45,6 @@ I focus on creating projects that are both functional and visually appealing.
 <tr style="transition: all 0.3s; background-color:#f5f5f5;" 
     onmouseover="this.style.backgroundColor='#e0f7fa'" 
     onmouseout="this.style.backgroundColor='#f5f5f5'">
-  <td><strong>E-Commerce Website</strong></td>
-  <td>Responsive online shopping interface with clean UI.</td>
-  <td>
-    <a href="https://tintswaloo.github.io/Tintswaloo/">
-      <img src="https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge"/>
-    </a>
-  </td>
-  <td>
-    <a href="https://github.com/tintswaloo/Tintswaloo">
-      <img src="https://img.shields.io/badge/GitHub-Code-blue?style=for-the-badge"/>
-    </a>
-  </td>
-</tr>
-
-<tr style="transition: all 0.3s; background-color:#f5f5f5;" 
-    onmouseover="this.style.backgroundColor='#e0f7fa'" 
-    onmouseout="this.style.backgroundColor='#f5f5f5'">
   <td><strong>Portfolio Project</strong></td>
   <td>Personal portfolio showcasing skills, projects, and contact links.</td>
   <td>
