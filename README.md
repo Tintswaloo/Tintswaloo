@@ -33,8 +33,6 @@ I focus on creating projects that are both functional and visually appealing.
 - UI/UX principles  
 
 <!-- ================= FEATURED PROJECTS ================= -->
-<h2 align="center" style="font-size: 2em;">🖼️ Featured Projects</h2>
-
 <table style="font-size: 1.1em; width:100%; text-align:left; border-collapse: collapse;">
 <tr>
   <th style="padding: 10px 5px;">Project</th>
@@ -42,38 +40,29 @@ I focus on creating projects that are both functional and visually appealing.
   <th style="padding: 10px 5px;">Demo</th>
   <th style="padding: 10px 5px;">Code</th>
 </tr>
+
 <tr style="transition: all 0.3s; background-color:#f5f5f5;" onmouseover="this.style.backgroundColor='#e0f7fa'" onmouseout="this.style.backgroundColor='#f5f5f5'">
   <td><strong>E-Commerce Website</strong></td>
   <td>Responsive online shopping interface with clean UI.</td>
   <td><a href="https://tintswaloo.github.io/Tintswaloo/"><img src="https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge"/></a></td>
   <td><a href="https://github.com/tintswaloo/Tintswaloo"><img src="https://img.shields.io/badge/GitHub-Code-blue?style=for-the-badge"/></a></td>
 </tr>
-<tr style="transition: all 0.3s; background-color:#f5f5f5;" onmouseover="this.style.backgroundColor='#e0f7fa'" onmouseout="this.style.backgroundColor='#f5f5f5'">
-  <td><strong>Online Store Interface</strong></td>
-  <td>Front-end focused design emphasizing usability and responsiveness.</td>
-  <td><a href="https://tintswaloo.github.io/Tintswaloo/"><img src="https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge"/></a></td>
-  <td><a href="https://github.com/tintswaloo/Tintswaloo"><img src="https://img.shields.io/badge/GitHub-Code-blue?style=for-the-badge"/></a></td>
-</tr>
+
 <tr style="transition: all 0.3s; background-color:#f5f5f5;" onmouseover="this.style.backgroundColor='#e0f7fa'" onmouseout="this.style.backgroundColor='#f5f5f5'">
   <td><strong>Portfolio Project</strong></td>
   <td>Personal portfolio showcasing skills, projects, and contact links.</td>
   <td><a href="https://tintswaloo.github.io/Tintswaloo/"><img src="https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge"/></a></td>
   <td><a href="https://github.com/tintswaloo/Tintswaloo"><img src="https://img.shields.io/badge/GitHub-Code-blue?style=for-the-badge"/></a></td>
 </tr>
-<tr style="transition: all 0.3s; background-color:#f5f5f5;" onmouseover="this.style.backgroundColor='#e0f7fa'" onmouseout="this.style.backgroundColor='#f5f5f5'">
-  <td><strong>Tintswaloo</strong></td>
-  <td>Personal GitHub portfolio and project showcase.</td>
-  <td><a href="https://tintswaloo.github.io/Tintswaloo/"><img src="https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge"/></a></td>
-  <td><a href="https://github.com/Tintswaloo/Tintswaloo"><img src="https://img.shields.io/badge/GitHub-Code-blue?style=for-the-badge"/></a></td>
-</tr>
+
 <tr style="transition: all 0.3s; background-color:#f5f5f5;" onmouseover="this.style.backgroundColor='#e0f7fa'" onmouseout="this.style.backgroundColor='#f5f5f5'">
   <td><strong>Reliable Carriers</strong></td>
   <td>Front-end project for carrier logistics and delivery interface.</td>
   <td>—</td>
   <td><a href="https://github.com/Ntshuxeko5/Reliable-Carriers"><img src="https://img.shields.io/badge/GitHub-Code-blue?style=for-the-badge"/></a></td>
 </tr>
-</table>
 
+</table>
 <!-- ================= GITHUB STATS ================= -->
 <h2 align="center" style="font-size: 2em;">📊 GitHub Stats</h2>
 
@@ -83,19 +72,15 @@ I focus on creating projects that are both functional and visually appealing.
 </p>
 
 
-<!-- ================= CONTACT ================= -->
+<!-- ================= LET'S GET IN TOUCH! ================= -->
 <h2 align="center" style="font-size: 2em;">📫 Connect With Me</h2>
 
 <p style="font-size: 1.2em;">
 LinkedIn:<br>
 https://www.linkedin.com/in/bianca-nakisani-makhado-2a2b27301
 Email Address:<br>
-<a href="mailto:biancanakisanimakhado@gmail.com">biancanakisanimakhado@gmail.com</a>
+<a href="mailto:biancanakisanimakhado@gmail.com">biancanakisanimakhado@gmail.com
+GitHub:<br>
+<a href="https://github.com/Tintswaloo/Tintswaloo/edit/main/README.md
+</a>
 </p>
-
-<!-- ================= RUN PROJECT ================= -->
-<h2 align="center" style="font-size: 2em;">▶️ How to Run the Project</h2>
-
-<ol style="font-size: 1.2em; line-height: 1.6;">
-  <li>Clone the repository</li>
-</ol>
