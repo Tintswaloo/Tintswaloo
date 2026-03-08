@@ -36,13 +36,43 @@ I focus on creating projects that are both functional and visually appealing.
 <h2 align="center" style="font-size: 2em;">🖼️ Featured Projects</h2>
 
 <table style="font-size: 1.1em; width:100%; text-align:left;">
-
-| Project | Description | Demo | Code |
-|---------|-------------|------|------|
-| **E-Commerce Website** | Responsive online shopping interface with clean UI. | [Live Demo](https://tintswaloo.github.io/Tintswaloo/) | [GitHub](https://github.com/tintswaloo/Tintswaloo) |
-| **Online Store Interface** | Front-end focused design emphasizing usability and responsiveness. | [Live Demo](https://tintswaloo.github.io/Tintswaloo/) | [GitHub](https://github.com/tintswaloo/Tintswaloo) |
-| **Portfolio Project** | Personal portfolio showcasing skills, projects, and contact links. | [Live Demo](https://tintswaloo.github.io/Tintswaloo/) | [GitHub](https://github.com/tintswaloo/Tintswaloo) |
-
+<tr>
+  <th>Project</th>
+  <th>Description</th>
+  <th>Demo</th>
+  <th>Code</th>
+</tr>
+<tr>
+  <td><strong>E-Commerce Website</strong></td>
+  <td>Responsive online shopping interface with clean UI.</td>
+  <td><a href="https://tintswaloo.github.io/Tintswaloo/">Live Demo</a></td>
+  <td><a href="https://github.com/tintswaloo/Tintswaloo">GitHub</a></td>
+</tr>
+<tr>
+  <td><strong>Online Store Interface</strong></td>
+  <td>Front-end focused design emphasizing usability and responsiveness.</td>
+  <td><a href="https://tintswaloo.github.io/Tintswaloo/">Live Demo</a></td>
+  <td><a href="https://github.com/tintswaloo/Tintswaloo">GitHub</a></td>
+</tr>
+<tr>
+  <td><strong>Portfolio Project</strong></td>
+  <td>Personal portfolio showcasing skills, projects, and contact links.</td>
+  <td><a href="https://tintswaloo.github.io/Tintswaloo/">Live Demo</a></td>
+  <td><a href="https://github.com/tintswaloo/Tintswaloo">GitHub</a></td>
+</tr>
+<tr>
+  <td><strong>Tintswaloo</strong></td>
+  <td>Personal GitHub portfolio and project showcase.</td>
+  <td><a href="https://tintswaloo.github.io/Tintswaloo/">Live Demo</a></td>
+  <td><a href="https://github.com/Tintswaloo/Tintswaloo">GitHub</a></td>
+</tr>
+<tr>
+  <td><strong>Reliable Carriers</strong></td>
+  <td>Front-end project for carrier logistics and delivery interface.</td>
+  <td>—</td>
+  <td><a href="https://github.com/Ntshuxeko5/Reliable-Carriers">GitHub</a></td>
+</tr>
+</table>
 
 <!-- ================= GITHUB STATS ================= -->
 <h2 align="center" style="font-size: 2em;">📊 GitHub Stats</h2>
