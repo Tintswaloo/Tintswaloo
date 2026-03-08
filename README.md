@@ -6,9 +6,9 @@
 <h2 align="center" style="margin-top: 20px; font-size: 2em;">🚀 About Me</h2>
 
 <p style="font-size: 1.2em; line-height: 1.6;">
-I am passionate about building **clean, responsive, and user-focused web applications**.  
-I enjoy **turning ideas into interactive interfaces** and continuously improving my front-end development skills.  
-I focus on creating projects that are **both functional and visually appealing**.
+I am passionate about building clean, responsive, and user-focused web applications.  
+I enjoy turning ideas into interactive interfaces and continuously improving my front-end development skills.  
+I focus on creating projects that are **both functional and visually appealing.
 
 ---
 
