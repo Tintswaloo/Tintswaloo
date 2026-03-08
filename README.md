@@ -12,7 +12,7 @@ I focus on creating projects that are both functional and visually appealing.
 
 ---
 
-<!-- ================= TECH STACK ================= -->
+ TECH STACK 
 <h2 align="center" style="font-size: 2em;">🛠️ Tech Stack</h2>
 
 <p align="center" style="font-size: 1.2em;">
