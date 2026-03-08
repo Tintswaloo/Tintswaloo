@@ -10,7 +10,7 @@
 <table align="center">
   <tr>
     <td width="120" align="center">
-      <img src="https://github.com/tintswaloo/Tintswaloo/raw/main/a_profile_header_section_of_nakisani_makhado_s_git.png" width="120" style="border-radius: 50%;"/>
+      <img src="https://github.com/tintswaloo/Tintswaloo/raw/main/cartoon.png" width="120" style="border-radius: 50%;"/>
     </td>
     <td align="left" valign="middle" style="padding-left: 15px;">
       🎓 Computer Science Graduate<br/>
