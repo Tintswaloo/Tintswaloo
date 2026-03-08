@@ -11,14 +11,6 @@
   <tr>
     <td width="120" align="center">
       <img src="https://github.com/tintswaloo/Tintswaloo/raw/main/Cartoon.png" width="120" style="border-radius: 50%;"/>
-    </td>
-    <td align="left" valign="middle" style="padding-left: 15px;">
-      🎓 Computer Science Graduate<br/>
-      💻 Front-End Developer<br/>
-      📍 South Africa
-    </td>
-  </tr>
-</table>
 
 ---
 
