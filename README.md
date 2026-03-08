@@ -13,25 +13,25 @@ I focus on creating projects that are both functional and visually appealing.
 <!-- ================= TECH STACK ================= -->
 <h2 align="center" style="font-size: 2em;">🛠️ Tech Stack</h2>
 
-<p align="center" style="font-size: 1.2em;">
-<!-- Front-End -->
-<img src="https://skillicons.dev/icons?i=html" height="45"/>  &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=css" height="45"/>  &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=javascript" height="45"/> &nbsp;&nbsp;
+<p align="center" style="font-size: 1.2em; display: flex; justify-content: center; flex-wrap: wrap; gap: 15px; align-items: center;">
+  <!-- Front-End -->
+  <span><img src="https://skillicons.dev/icons?i=html" height="45"/></span>
+  <span><img src="https://skillicons.dev/icons?i=css" height="45"/></span>
+  <span><img src="https://skillicons.dev/icons?i=javascript" height="45"/></span>
 
-<!-- Back-End -->
-<img src="https://skillicons.dev/icons?i=php" height="45"/>  &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=java" height="45"/> &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=cs" height="45"/> &nbsp;&nbsp;
+  <!-- Back-End -->
+  <span><img src="https://skillicons.dev/icons?i=php" height="45"/></span>
+  <span><img src="https://skillicons.dev/icons?i=java" height="45"/></span>
+  <span><img src="https://skillicons.dev/icons?i=cs" height="45"/></span>
 
-<!-- Databases -->
-<img src="https://img.shields.io/badge/SQL-00758F?style=flat&logo=Microsoft%20SQL%20Server&logoColor=white" height="25"/>  &nbsp;&nbsp;
+  <!-- Databases -->
+  <span><img src="https://img.shields.io/badge/SQL-00758F?style=flat&logo=Microsoft%20SQL%20Server&logoColor=white" height="45"/></span>
 
-<!-- Tools -->
-<img src="https://skillicons.dev/icons?i=git" height="45"/>  &nbsp;&nbsp;
+  <!-- Tools -->
+  <span><img src="https://skillicons.dev/icons?i=git" height="45"/></span>
 
-<!-- Version Control / Hosting -->
-<img src="https://skillicons.dev/icons?i=github" height="45"/>
+  <!-- Version Control -->
+  <span><img src="https://skillicons.dev/icons?i=github" height="45"/></span>
 </p>
 
 <!-- ================= CURRENTLY IMPROVING ================= -->
