@@ -8,7 +8,7 @@
 <p style="font-size: 1.2em; line-height: 1.6;">
 I am passionate about building clean, responsive, and user-focused web applications.  
 I enjoy turning ideas into interactive interfaces and continuously improving my front-end development skills.  
-I focus on creating projects that are **both functional and visually appealing.
+I focus on creating projects that are both functional and visually appealing.
 
 ---
 
@@ -16,18 +16,17 @@ I focus on creating projects that are **both functional and visually appealing.
 <h2 align="center" style="font-size: 2em;">🛠️ Tech Stack</h2>
 
 <p align="center" style="font-size: 1.2em;">
-<img src="https://skillicons.dev/icons?i=html" height="45"/> HTML &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=css" height="45"/> CSS &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=javascript" height="45"/> JavaScript &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=php" height="45"/> PHP &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=cs" height="45"/> C# &nbsp;&nbsp;
-<img src="https://img.shields.io/badge/SQL-00758F?style=flat&logo=Microsoft%20SQL%20Server&logoColor=white" height="25"/> SQL &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=git" height="45"/> Git &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=github" height="45"/> GitHub
+<img src="https://skillicons.dev/icons?i=html" height="45"/>  &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=css" height="45"/>  &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=javascript" height="45"/> &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=php" height="45"/>  &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=cs" height="45"/> &nbsp;&nbsp;
+<img src="https://img.shields.io/badge/SQL-00758F?style=flat&logo=Microsoft%20SQL%20Server&logoColor=white" height="25"/>  &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=git" height="45"/>  &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=github" height="45"/> 
 </p>
 
 ---
-
 <!-- ================= CURRENTLY IMPROVING ================= -->
 <h2 align="center" style="font-size: 2em;">🌱 Currently Improving</h2>
 
