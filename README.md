@@ -67,9 +67,8 @@ I focus on creating projects that are **both functional and visually appealing**
 <p style="font-size: 1.2em;">
 LinkedIn:<br>
 https://www.linkedin.com/in/bianca-nakisani-makhado-2a2b27301
-Email Address:<br>
-<a href="biancanakisanimakhado@gmail.com"</a>
-</p> 
+EmailAddress:<a href="mailto:your.email@example.com">your.email@example.com</a>
+</p>
 ---
 
 <!-- ================= RUN PROJECT ================= -->
