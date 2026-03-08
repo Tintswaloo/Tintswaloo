@@ -2,8 +2,8 @@
 <div align="center">
 
 <img src="https://github.com/tintswaloo/Tintswaloo/raw/main/banner.png" width="100%" alt="Nakisani Makhado Banner"/>
-
 </div>
+
 <!-- ================= PROFILE ICON + INFO ================= -->
 <table align="center">
   <tr>
