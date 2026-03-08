@@ -10,7 +10,7 @@
 </div>
 
 ---
-<h2 align="center">🚀 About Me</h2>
+<h2 align="center">About Me</h2>
 I am passionate about building **clean, responsive, and user-focused web applications**.
 
 I enjoy **turning ideas into interactive interfaces** and continuously improving my front-end development skills.  
@@ -18,7 +18,7 @@ I focus on creating projects that are **both functional and visually appealing**
 
 ---
 
-## 🛠️ Tech Stack
+<h2 align="center"> 🛠️ Growing Tech Stack</h2>
 
 <p align="center">
 
@@ -35,7 +35,7 @@ I focus on creating projects that are **both functional and visually appealing**
 
 ---
 
-## 🌱 Currently Improving
+<h2 align="center"> 🌱Currently Improving</h2>
 
 - JavaScript proficiency  
 - Responsive design  
@@ -43,7 +43,7 @@ I focus on creating projects that are **both functional and visually appealing**
 
 ---
 
-## 🖼️ Featured Projects
+<h2 align="center"> 🖼️ Featured Projects</h2>
 
 | Project | Description | Demo | Code |
 |---------|-------------|------|------|
@@ -55,7 +55,7 @@ I focus on creating projects that are **both functional and visually appealing**
 
 ---
 
-## 📊 GitHub Stats
+<h2 align="center"> 📊 GitHub Stats</h2>
 
 <p align="center">
 
@@ -67,13 +67,14 @@ I focus on creating projects that are **both functional and visually appealing**
 
 ---
 
-## 📫 Connect With Me
+<h2 align="center"> 📫 Connect With Me</h2>
+
 
 LinkedIn:  
 https://www.linkedin.com/in/bianca-nakisani-makhado-2a2b27301
 
 ---
 
-## ▶️ How to Run the Project
+<h2 align="center"> ▶️ How to Run the Project</h2>
 
 1. Clone the repository
