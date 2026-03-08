@@ -1,11 +1,9 @@
 <!-- ================= BANNER ================= -->
 <div align="center">
 
-<!-- Full-width coding-style banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Nakisani%20Makhado&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=Front-End%20Developer&descSize=20&descAlign=center" width="100%"/>
+<img src="https://github.com/tintswaloo/Tintswaloo/raw/main/banner.png" width="100%" alt="Nakinsani Makhado Banner"/>
 
 </div>
-
 ---
 
 <!-- ================= PROFILE ICON + INFO ================= -->
