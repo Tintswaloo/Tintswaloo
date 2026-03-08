@@ -1,7 +1,7 @@
 <!-- ================= BANNER ================= -->
 <div align="center">
 
-<img src="https://github.com/tintswaloo/Tintswaloo/raw/main/banner.png" width="100%" alt="Nakinsani Makhado Banner"/>
+<img src="https://github.com/tintswaloo/Tintswaloo/raw/main/banner.png" width="100%" alt="Nakisani Makhado Banner"/>
 
 </div>
 ---
