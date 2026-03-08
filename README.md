@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Coding Terminal Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Nakisani%20Makhado&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=Front-End%20Developer&descSize=20&descAlign=center" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=Front-End%20Developer&descSize=20&descAlign=center" />
 
 🎓 Computer Science Graduate  
 💻 Front-End Developer  
@@ -11,7 +11,7 @@
 
 ---
 
-## 🚀 About Me
+ # About Me
 
 I am passionate about building **clean, responsive, and user-focused web applications**.
 
@@ -20,7 +20,7 @@ I focus on creating projects that are **both functional and visually appealing**
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Growing Tech Stack
 
 <p align="center">
 
