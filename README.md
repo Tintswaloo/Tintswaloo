@@ -35,42 +35,42 @@ I focus on creating projects that are both functional and visually appealing.
 <!-- ================= FEATURED PROJECTS ================= -->
 <h2 align="center" style="font-size: 2em;">🖼️ Featured Projects</h2>
 
-<table style="font-size: 1.1em; width:100%; text-align:left;">
+<table style="font-size: 1.1em; width:100%; text-align:left; border-collapse: collapse;">
 <tr>
-  <th>Project</th>
-  <th>Description</th>
-  <th>Demo</th>
-  <th>Code</th>
+  <th style="padding: 10px 5px;">Project</th>
+  <th style="padding: 10px 5px;">Description</th>
+  <th style="padding: 10px 5px;">Demo</th>
+  <th style="padding: 10px 5px;">Code</th>
 </tr>
-<tr>
+<tr style="transition: all 0.3s; background-color:#f5f5f5;" onmouseover="this.style.backgroundColor='#e0f7fa'" onmouseout="this.style.backgroundColor='#f5f5f5'">
   <td><strong>E-Commerce Website</strong></td>
   <td>Responsive online shopping interface with clean UI.</td>
-  <td><a href="https://tintswaloo.github.io/Tintswaloo/">Live Demo</a></td>
-  <td><a href="https://github.com/tintswaloo/Tintswaloo">GitHub</a></td>
+  <td><a href="https://tintswaloo.github.io/Tintswaloo/"><img src="https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge"/></a></td>
+  <td><a href="https://github.com/tintswaloo/Tintswaloo"><img src="https://img.shields.io/badge/GitHub-Code-blue?style=for-the-badge"/></a></td>
 </tr>
-<tr>
+<tr style="transition: all 0.3s; background-color:#f5f5f5;" onmouseover="this.style.backgroundColor='#e0f7fa'" onmouseout="this.style.backgroundColor='#f5f5f5'">
   <td><strong>Online Store Interface</strong></td>
   <td>Front-end focused design emphasizing usability and responsiveness.</td>
-  <td><a href="https://tintswaloo.github.io/Tintswaloo/">Live Demo</a></td>
-  <td><a href="https://github.com/tintswaloo/Tintswaloo">GitHub</a></td>
+  <td><a href="https://tintswaloo.github.io/Tintswaloo/"><img src="https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge"/></a></td>
+  <td><a href="https://github.com/tintswaloo/Tintswaloo"><img src="https://img.shields.io/badge/GitHub-Code-blue?style=for-the-badge"/></a></td>
 </tr>
-<tr>
+<tr style="transition: all 0.3s; background-color:#f5f5f5;" onmouseover="this.style.backgroundColor='#e0f7fa'" onmouseout="this.style.backgroundColor='#f5f5f5'">
   <td><strong>Portfolio Project</strong></td>
   <td>Personal portfolio showcasing skills, projects, and contact links.</td>
-  <td><a href="https://tintswaloo.github.io/Tintswaloo/">Live Demo</a></td>
-  <td><a href="https://github.com/tintswaloo/Tintswaloo">GitHub</a></td>
+  <td><a href="https://tintswaloo.github.io/Tintswaloo/"><img src="https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge"/></a></td>
+  <td><a href="https://github.com/tintswaloo/Tintswaloo"><img src="https://img.shields.io/badge/GitHub-Code-blue?style=for-the-badge"/></a></td>
 </tr>
-<tr>
+<tr style="transition: all 0.3s; background-color:#f5f5f5;" onmouseover="this.style.backgroundColor='#e0f7fa'" onmouseout="this.style.backgroundColor='#f5f5f5'">
   <td><strong>Tintswaloo</strong></td>
   <td>Personal GitHub portfolio and project showcase.</td>
-  <td><a href="https://tintswaloo.github.io/Tintswaloo/">Live Demo</a></td>
-  <td><a href="https://github.com/Tintswaloo/Tintswaloo">GitHub</a></td>
+  <td><a href="https://tintswaloo.github.io/Tintswaloo/"><img src="https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge"/></a></td>
+  <td><a href="https://github.com/Tintswaloo/Tintswaloo"><img src="https://img.shields.io/badge/GitHub-Code-blue?style=for-the-badge"/></a></td>
 </tr>
-<tr>
+<tr style="transition: all 0.3s; background-color:#f5f5f5;" onmouseover="this.style.backgroundColor='#e0f7fa'" onmouseout="this.style.backgroundColor='#f5f5f5'">
   <td><strong>Reliable Carriers</strong></td>
   <td>Front-end project for carrier logistics and delivery interface.</td>
   <td>—</td>
-  <td><a href="https://github.com/Ntshuxeko5/Reliable-Carriers">GitHub</a></td>
+  <td><a href="https://github.com/Ntshuxeko5/Reliable-Carriers"><img src="https://img.shields.io/badge/GitHub-Code-blue?style=for-the-badge"/></a></td>
 </tr>
 </table>
 
