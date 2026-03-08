@@ -1,11 +1,11 @@
 <!-- ================= BANNER ================= -->
-<div align="center">
+<div align="center" style="margin-bottom: 10px;">
 <img src="https://github.com/tintswaloo/Tintswaloo/raw/main/banner.png" width="100%" alt="Nakisani Bianca Makhado Banner"/>
 </div>
 <!-- ================= ABOUT ME ================= -->
-<h2 align="center" style="margin-top: 20px; font-size: 2em;">🚀 About Me</h2>
+<h2 align="center" style="margin-top: 5px; font-size: 2em;">🚀 About Me</h2>
 
-<p style="font-size: 1.2em; line-height: 1.6;">
+<p style="font-size: 1.2em; line-height: 1.6; margin-top: 5px;">
 I am passionate about building clean, responsive, and user-focused web applications.  
 I enjoy turning ideas into interactive interfaces and continuously improving my front-end development skills.  
 I focus on creating projects that are both functional and visually appealing.
