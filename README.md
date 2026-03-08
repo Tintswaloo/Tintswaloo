@@ -79,8 +79,8 @@ I focus on creating projects that are both functional and visually appealing.
   <td>Responsive website for showcasing fresh produce, with clean UI and interactive pages.</td>
   <td>
     <a href="https://tintswaloo.github.io/freshpatchweb/">
-      <img src="https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge"/>
-    </a>
+  <img src="https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge"/>
+</a>
   </td>
   <td>
     <a href="https://github.com/Tintswaloo/freshpatchweb">
