@@ -14,14 +14,24 @@ I focus on creating projects that are both functional and visually appealing.
 <h2 align="center" style="font-size: 2em;">🛠️ Tech Stack</h2>
 
 <p align="center" style="font-size: 1.2em;">
+<!-- Front-End -->
 <img src="https://skillicons.dev/icons?i=html" height="45"/>  &nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=css" height="45"/>  &nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=javascript" height="45"/> &nbsp;&nbsp;
+
+<!-- Back-End -->
 <img src="https://skillicons.dev/icons?i=php" height="45"/>  &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=java" height="45"/> &nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=cs" height="45"/> &nbsp;&nbsp;
+
+<!-- Databases -->
 <img src="https://img.shields.io/badge/SQL-00758F?style=flat&logo=Microsoft%20SQL%20Server&logoColor=white" height="25"/>  &nbsp;&nbsp;
+
+<!-- Tools -->
 <img src="https://skillicons.dev/icons?i=git" height="45"/>  &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=github" height="45"/> 
+
+<!-- Version Control / Hosting -->
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
 </p>
 
 <!-- ================= CURRENTLY IMPROVING ================= -->
