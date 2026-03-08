@@ -10,7 +10,7 @@ I am passionate about building clean, responsive, and user-focused web applicati
 I enjoy turning ideas into interactive interfaces and continuously improving my front-end development skills.  
 I focus on creating projects that are both functional and visually appealing.
 
----
+<!-- ================= TECH STACK ================= -->
 <h2 align="center" style="font-size: 2em;">🛠️ Tech Stack</h2>
 
 <p align="center" style="font-size: 1.2em;">
@@ -24,7 +24,6 @@ I focus on creating projects that are both functional and visually appealing.
 <img src="https://skillicons.dev/icons?i=github" height="45"/> 
 </p>
 
----
 <!-- ================= CURRENTLY IMPROVING ================= -->
 <h2 align="center" style="font-size: 2em;">🌱 Currently Improving</h2>
 
@@ -32,8 +31,6 @@ I focus on creating projects that are both functional and visually appealing.
 - JavaScript proficiency  
 - Responsive design  
 - UI/UX principles  
-
----
 
 <!-- ================= FEATURED PROJECTS ================= -->
 <h2 align="center" style="font-size: 2em;">🖼️ Featured Projects</h2>
@@ -46,7 +43,6 @@ I focus on creating projects that are both functional and visually appealing.
 | **Online Store Interface** | Front-end focused design emphasizing usability and responsiveness. | [Live Demo](https://tintswaloo.github.io/Tintswaloo/) | [GitHub](https://github.com/tintswaloo/Tintswaloo) |
 | **Portfolio Project** | Personal portfolio showcasing skills, projects, and contact links. | [Live Demo](https://tintswaloo.github.io/Tintswaloo/) | [GitHub](https://github.com/tintswaloo/Tintswaloo) |
 
----
 
 <!-- ================= GITHUB STATS ================= -->
 <h2 align="center" style="font-size: 2em;">📊 GitHub Stats</h2>
@@ -56,7 +52,6 @@ I focus on creating projects that are both functional and visually appealing.
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tintswaloo&layout=compact&theme=react"/>
 </p>
 
----
 
 <!-- ================= CONTACT ================= -->
 <h2 align="center" style="font-size: 2em;">📫 Connect With Me</h2>
