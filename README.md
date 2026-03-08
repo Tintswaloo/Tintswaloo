@@ -48,9 +48,9 @@ I enjoy turning ideas into interactive interfaces and continuously improving my 
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Tintswaloo&show_icons=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tintswaloo&layout=compact"/>
 
 </p>
 
