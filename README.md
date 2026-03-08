@@ -3,8 +3,9 @@
 <img src="https://github.com/tintswaloo/Tintswaloo/raw/main/banner.png" width="100%" alt="Nakisani Makhado Banner"/>
 </div>
 <!-- ================= ABOUT ME ================= -->
-<h2 align="center" style="margin-top: 20px;">🚀 About Me</h2>
+<h2 align="center" style="margin-top: 20px; font-size: 2em;">🚀 About Me</h2>
 
+<p style="font-size: 1.2em; line-height: 1.6;">
 I am passionate about building **clean, responsive, and user-focused web applications**.  
 I enjoy **turning ideas into interactive interfaces** and continuously improving my front-end development skills.  
 I focus on creating projects that are **both functional and visually appealing**.
@@ -12,9 +13,9 @@ I focus on creating projects that are **both functional and visually appealing**
 ---
 
 <!-- ================= TECH STACK ================= -->
-<h2 align="center">🛠️ Tech Stack</h2>
+<h2 align="center" style="font-size: 2em;">🛠️ Tech Stack</h2>
 
-<p align="center">
+<p align="center" style="font-size: 1.2em;">
 <img src="https://skillicons.dev/icons?i=html" height="45"/> HTML &nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=css" height="45"/> CSS &nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=javascript" height="45"/> JavaScript &nbsp;&nbsp;
@@ -28,8 +29,9 @@ I focus on creating projects that are **both functional and visually appealing**
 ---
 
 <!-- ================= CURRENTLY IMPROVING ================= -->
-<h2 align="center">🌱 Currently Improving</h2>
+<h2 align="center" style="font-size: 2em;">🌱 Currently Improving</h2>
 
+<ul style="font-size: 1.2em; line-height: 1.6;">
 - JavaScript proficiency  
 - Responsive design  
 - UI/UX principles  
@@ -37,7 +39,9 @@ I focus on creating projects that are **both functional and visually appealing**
 ---
 
 <!-- ================= FEATURED PROJECTS ================= -->
-<h2 align="center">🖼️ Featured Projects</h2>
+<h2 align="center" style="font-size: 2em;">🖼️ Featured Projects</h2>
+
+<table style="font-size: 1.1em; width:100%; text-align:left;">
 
 | Project | Description | Demo | Code |
 |---------|-------------|------|------|
@@ -48,9 +52,9 @@ I focus on creating projects that are **both functional and visually appealing**
 ---
 
 <!-- ================= GITHUB STATS ================= -->
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center" style="font-size: 2em;">📊 GitHub Stats</h2>
 
-<p align="center">
+<p align="center" style="font-size: 1.1em;">
 <img src="https://github-readme-stats.vercel.app/api?username=tintswaloo&show_icons=true&theme=react"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tintswaloo&layout=compact&theme=react"/>
 </p>
@@ -58,14 +62,19 @@ I focus on creating projects that are **both functional and visually appealing**
 ---
 
 <!-- ================= CONTACT ================= -->
-<h2 align="center">📫 Connect With Me</h2>
+<h2 align="center" style="font-size: 2em;">📫 Connect With Me</h2>
 
-LinkedIn:  
+<p style="font-size: 1.2em;">
+LinkedIn:<br>
 https://www.linkedin.com/in/bianca-nakisani-makhado-2a2b27301
-
+Email Address:<br>
+<a href="biancanakisanimakhado@gmail.com"</a>
+</p> 
 ---
 
 <!-- ================= RUN PROJECT ================= -->
-<h2 align="center">▶️ How to Run the Project</h2>
+<h2 align="center" style="font-size: 2em;">▶️ How to Run the Project</h2>
 
-1. Clone the repository
+<ol style="font-size: 1.2em; line-height: 1.6;">
+  <li>Clone the repository</li>
+</ol>
