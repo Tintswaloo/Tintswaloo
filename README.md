@@ -1,10 +1,9 @@
 <!-- ================= BANNER ================= -->
 <div align="center">
-
 <img src="https://github.com/tintswaloo/Tintswaloo/raw/main/banner.png" width="100%" alt="Nakisani Makhado Banner"/>
 </div>
 <!-- ================= ABOUT ME ================= -->
-<h2 align="center">🚀 About Me</h2>
+<h2 align="center" style="margin-top: 20px;">🚀 About Me</h2>
 
 I am passionate about building **clean, responsive, and user-focused web applications**.  
 I enjoy **turning ideas into interactive interfaces** and continuously improving my front-end development skills.  
