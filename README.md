@@ -63,14 +63,6 @@ I focus on creating projects that are both functional and visually appealing.
 </tr>
 
 </table>
-<!-- ================= GITHUB STATS ================= -->
-<h2 align="center" style="font-size: 2em;">📊 GitHub Stats</h2>
-
-<p align="center" style="font-size: 1.1em;">
-<img src="https://github-readme-stats.vercel.app/api?tintswaloo=tintswaloo&show_icons=true&theme=react"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?tintswaloo=tintswaloo&layout=compact&theme=react"/>
-</p>
-
 
 <!-- ================= LET'S GET IN TOUCH! ================= -->
 <h2 align="center" style="font-size: 2em;">📫 Let's get in touch!</h2>
